@@ -1,2 +1,2 @@
-input stramlit as v
+import streamlit as v
 v.write('Vamapire here')
