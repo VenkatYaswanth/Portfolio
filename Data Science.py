@@ -1,2 +1,2 @@
 import streamlit as v
-v.write('Vamapire here')
+v.write("Vamapire here")
